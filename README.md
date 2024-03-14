@@ -29,7 +29,7 @@ https://a.co/d/4QbojtL
 https://a.co/d/ikBriBh
 
 ## PCB Ordering and final assembly
-1. Use fabrication files in DigiHat_Fabrication_Files folder to order the PCB. PCB will arrive with resistors and thre MOSFET soldered.
+1. Use fabrication files in DigiHat_Fabrication_Files folder to order the PCB. PCB will arrive with resistors and thre MOSFET soldered. Optionally, you can order PCB front panel as well, which will give your DigiPi professional look. There are two versions of the front panel - with holes for LED's and without.
 2. Solther PIN header and TRRS connector to the bottom of the PCB.
 3. Sother LED's at the top, pay attention to the polarity. The negative pin (short pin, the cathode) goes to the square pad.
 4. Bend JST male pins 90 degree and solder to the bottom of the PCB as shown in the photo:
@@ -37,7 +37,7 @@ https://a.co/d/ikBriBh
 5. Solther female JST cable assembly to the sound card:
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/JST_SoundCard1.jpeg" width=25% height=25%>
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/JST_SoundCard2.jpeg" width=25% height=25%>
-6. Put everything togther:
+6. Put everything together:
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Installed.jpeg" width=25% height=25%>
 
 
