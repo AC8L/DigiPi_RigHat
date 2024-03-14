@@ -28,3 +28,8 @@ https://a.co/d/4QbojtL
 - JST 3-pin Male-Female pair
 https://a.co/d/ikBriBh
 
+## PCB Ordering and final assembly
+1. Use fabrication files in DigiHat_Fabrication_Files folder to order the PCB. PCB will arrive with resistors and thre MOSFET soldered.
+2. Solther PIN header and TRRS connector to the bottom of the PCB.
+3. Sother LED's at the top, pay attention to the polarity. The negative pin (short pin, the cathode) goes to the square pad.
+
