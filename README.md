@@ -32,6 +32,9 @@ https://a.co/d/ikBriBh
 1. Use fabrication files in DigiHat_Fabrication_Files folder to order the PCB. PCB will arrive with resistors and thre MOSFET soldered.
 2. Solther PIN header and TRRS connector to the bottom of the PCB.
 3. Sother LED's at the top, pay attention to the polarity. The negative pin (short pin, the cathode) goes to the square pad.
+4. Bend JST male pins 90 degree and solder to the bottom of the PCB as shown in the photo:
+<img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Installed_With_Panel.jpeg" width=75% height=75%>
+
 
 ## Interface connection cables
 The TRRS pins has been chosen such a way that hat is compatible with DigiRig cables. So far, successful tests were made with:
