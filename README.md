@@ -1,8 +1,6 @@
 # DigiPi RigHat
 ## (Yet an other interface hat for famous DigiPi)
 
-Please be patient, I am still editing and adding instructions.
-
 This is an interface hat for a DigiPi by KM6LYW (www.digipi.org).
 I am releasing fabrication files under open source license so anyone can order PCB's with SMD mounted components.
 
@@ -46,7 +44,7 @@ The TRRS pins has been chosen such a way that hat is compatible with DigiRig cab
 - (tr)USDX audio/PTT cable: https://digirig.net/product/usdx-cable-for-digirig-mobile/
 - Baofeng audio cable: https://digirig.net/product/baofeng-cords-kit-for-digirig-mobile/
 
-## 3D printed enclosure
+## 3D printed enclosure (work in progress)
 The first version of the enclosure was designed for the prototype PCB. However I will have to make adjustments, since the TRRS hole moved few mm.
 Once done - I will update the enclosure page at thingiverse: https://www.thingiverse.com/thing:6478217
 
