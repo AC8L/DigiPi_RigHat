@@ -16,11 +16,11 @@ Schematic is based on KM6LYW's original documentation at www.digpi.org. PCB was 
 ## Through-hole components
 These are the additional THT components to be sourced for the final assembly:
 
-### 2.54mm Double Row Female Long Pin 11mm Breakaway PCB Board Pin Header Connector 
+- 2.54mm Double Row Female Long Pin 11mm Breakaway PCB Board Pin Header Connector 
 https://a.co/d/0CLkeeG
 
-### TRRS Connector
+- TRRS Connector
 https://a.co/d/cTMyE9t
 
-### LED's
+- LED's
 https://a.co/d/4QbojtL
