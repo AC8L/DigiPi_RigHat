@@ -1,0 +1,11 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+D1,LED_THT:LED_D3.0mm_FlatTop,1,Rx,
+D2,LED_THT:LED_D3.0mm_FlatTop,1,Tx,
+D3,LED_THT:LED_D3.0mm_FlatTop,1,BLE,
+J1,B3B-XH-A_LF__SN_:JST_B3B-XH-A_LF__SN_,1,Fe-Pi,
+J2,Connector_Audio_Local:Jack_3.5mm_PJ320E_Horizontal,1,"Audio, PTT",
+J4,V06-2X6-SV-GF-1:VALCON_V06-2X6-SV-GF-1,1,Conn_02x06_Top_Bottom,
+Q1,Package_TO_SOT_SMD:SOT-23,1,2N7002,C5224215
+R1,Resistor_SMD:R_0805_2012Metric,4,100K,C723424
+"R2, R3",Resistor_SMD:R_0805_2012Metric,2,220,C492103
+R4,Resistor_SMD:R_0805_2012Metric,1,3K,C17661
