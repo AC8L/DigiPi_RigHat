@@ -10,4 +10,6 @@ I am releasing fabrication files under open source license so anyone can order P
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Installed.jpeg" width=50% height=50%>
 
 ## Schematic
+Schematic is based on KM6LYW's original documentation at www.digpi.org
+PCB was designed to utilize the SMD resistors and MOSFET to fit under tight Pi Zero configuration anbd be flush with display hat.
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Schematic.png" width=50% height=50%>
