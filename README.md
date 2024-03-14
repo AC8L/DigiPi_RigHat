@@ -10,4 +10,4 @@ I am releasing fabrication files under open source license so anyone can order P
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Installed.jpeg" width=50% height=50%>
 
 ## Schematic
-<img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Schematic.jpeg" width=50% height=50%>
+<img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Schematic.png" width=50% height=50%>
