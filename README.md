@@ -34,6 +34,10 @@ https://a.co/d/ikBriBh
 3. Sother LED's at the top, pay attention to the polarity. The negative pin (short pin, the cathode) goes to the square pad.
 4. Bend JST male pins 90 degree and solder to the bottom of the PCB as shown in the photo:
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Assembled_Bottom.jpeg" width=25% height=25%>
+5. Solther female JST cable assembly to the sound card:
+<img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/JST_SoundCard1.jpeg" width=25% height=25%>
+<img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/JST_SoundCard2.jpeg" width=25% height=25%>
+
 
 
 ## Interface connection cables
