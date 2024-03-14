@@ -33,7 +33,7 @@ https://a.co/d/ikBriBh
 2. Solther PIN header and TRRS connector to the bottom of the PCB.
 3. Sother LED's at the top, pay attention to the polarity. The negative pin (short pin, the cathode) goes to the square pad.
 4. Bend JST male pins 90 degree and solder to the bottom of the PCB as shown in the photo:
-<img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Assembled_Bototm.jpeg" width=25% height=25%>
+<img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Assembled_Bottom.jpeg" width=25% height=25%>
 
 
 ## Interface connection cables
