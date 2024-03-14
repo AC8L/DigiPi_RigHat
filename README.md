@@ -37,7 +37,8 @@ https://a.co/d/ikBriBh
 5. Solther female JST cable assembly to the sound card:
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/JST_SoundCard1.jpeg" width=25% height=25%>
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/JST_SoundCard2.jpeg" width=25% height=25%>
-
+6. Put everything togther:
+<img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Installed.jpeg" width=25% height=25%>
 
 
 ## Interface connection cables
