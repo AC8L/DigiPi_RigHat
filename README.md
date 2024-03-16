@@ -3,6 +3,7 @@
 
 This is an interface hat for a DigiPi by KM6LYW (www.digipi.org).
 I am releasing fabrication files under open source license so anyone can order PCB's with SMD mounted components.
+Feel free resuing materials as you wish, if someone decides to produce PCB's for commerical use, I am fine with that too and have no objection.
 
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Installed_With_Panel.jpeg" width=50% height=50%>
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Installed.jpeg" width=50% height=50%>
