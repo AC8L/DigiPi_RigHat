@@ -23,8 +23,8 @@ https://a.co/d/cTMyE9t
 - LED's
 https://a.co/d/4QbojtL
 
-- JST 3-pin Male-Female pair
-https://a.co/d/ikBriBh
+- JST-XH 3-pin Male-Female pair
+https://a.co/d/czNhTzQ
 
 ## PCB Ordering and final assembly
 1. Use fabrication files in DigiHat_Fabrication_Files folder to order the PCB. PCB will arrive with resistors and thre MOSFET soldered. Optionally, you can order PCB front panel as well, which will give your DigiPi professional look. There are two versions of the front panel - with holes for LED's and without.
