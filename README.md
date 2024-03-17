@@ -36,6 +36,7 @@ https://a.co/d/czNhTzQ or JST-PH 3-pin pair: https://a.co/d/5Sgg32F
 4. If using JST-XH connector - bend JST male pins 90 degree and solder to the bottom of the PCB as shown in the photo:
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Assembled_Bottom.jpeg" width=25% height=25%>
 If using JST-PH connector - it has a smaller footprint, no bending is necessary.
+
 5. Solther female JST cable assembly to the sound card:
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/JST_SoundCard1.jpeg" width=25% height=25%>
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/JST_SoundCard2.jpeg" width=25% height=25%>
