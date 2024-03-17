@@ -33,10 +33,8 @@ https://a.co/d/czNhTzQ or JST-PH 3-pin pair: https://a.co/d/5Sgg32F
 1. Use fabrication files in DigiHat_Fabrication_Files folder to order the PCB from PCB manufacturers like JLCPCB. The PCB will arrive with resistors and the MOSFET soldered. Optionally, you can order PCB front panel as well, which will give your DigiPi professional look. There are two versions of the front panel - with holes for LED's and without.
 2. Solther PIN header and TRRS connector to the bottom of the PCB.
 3. Sother LED's at the top, pay attention to the polarity. The negative pin (short pin, the cathode) goes to the square pad.
-4. If using JST-XH connector - bend JST male pins 90 degree and solder to the bottom of the PCB as shown in the photo:
+4. If using JST-XH connector - bend JST male pins 90 degree and solder to the bottom of the PCB as shown in the photo below. If using JST-PH connector - it has a smaller footprint, no bending is necessary.
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Assembled_Bottom.jpeg" width=25% height=25%>
-If using JST-PH connector - it has a smaller footprint, no bending is necessary.
-
 5. Solther female JST cable assembly to the sound card:
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/JST_SoundCard1.jpeg" width=25% height=25%>
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/JST_SoundCard2.jpeg" width=25% height=25%>
