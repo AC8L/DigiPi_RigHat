@@ -47,6 +47,6 @@ The TRRS pins has been chosen such a way that hat is compatible with DigiRig cab
 - Baofeng audio cable: https://digirig.net/product/baofeng-cords-kit-for-digirig-mobile/
 
 ## 3D printed enclosure (work in progress)
-Enclosure 3D models at thingiverse: https://www.thingiverse.com/thing:6478217
-Also includes matched 3D-printable front panels.
+Enclosure 3D models at thingiverse: https://www.thingiverse.com/thing:6478217.
+Includes matched 3D-printable front panels as well as an alternatice to PCB-version of front panels.
 
