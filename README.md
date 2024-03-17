@@ -6,6 +6,7 @@ I am releasing fabrication files under open source license so anyone can order P
 Feel free resuing materials as you wish, if someone decides to produce PCB's for commerical use, I am fine with that too and have no objection.
 
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Installed_With_Panel.jpeg" width=50% height=50%>
+<img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Installed_With_Panel_noEnclosure.jpeg" width=50% height=50%>
 <img src="https://github.com/AC8L/DigiPi_RigHat/blob/main/images/Installed.jpeg" width=50% height=50%>
 
 ## Schematic
@@ -46,6 +47,6 @@ The TRRS pins has been chosen such a way that hat is compatible with DigiRig cab
 - Baofeng audio cable: https://digirig.net/product/baofeng-cords-kit-for-digirig-mobile/
 
 ## 3D printed enclosure (work in progress)
-The first version of the enclosure was designed for the prototype PCB. However I will have to make adjustments, since the TRRS hole moved few mm.
-Once done - I will update the enclosure page at thingiverse: https://www.thingiverse.com/thing:6478217
+Enclosure 3D models at thingiverse: https://www.thingiverse.com/thing:6478217
+Also includes matched 3D-printable front panels.
 
