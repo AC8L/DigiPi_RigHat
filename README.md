@@ -29,7 +29,7 @@ https://a.co/d/4QbojtL
 https://a.co/d/czNhTzQ
 
 ## PCB Ordering and final assembly
-1. Use fabrication files in DigiHat_Fabrication_Files folder to order the PCB. PCB will arrive with resistors and thre MOSFET soldered. Optionally, you can order PCB front panel as well, which will give your DigiPi professional look. There are two versions of the front panel - with holes for LED's and without.
+1. Use fabrication files in DigiHat_Fabrication_Files folder to order the PCB from PCB manufacturers like JLCPCB. The PCB will arrive with resistors and the MOSFET soldered. Optionally, you can order PCB front panel as well, which will give your DigiPi professional look. There are two versions of the front panel - with holes for LED's and without.
 2. Solther PIN header and TRRS connector to the bottom of the PCB.
 3. Sother LED's at the top, pay attention to the polarity. The negative pin (short pin, the cathode) goes to the square pad.
 4. Bend JST male pins 90 degree and solder to the bottom of the PCB as shown in the photo:
@@ -42,11 +42,11 @@ https://a.co/d/czNhTzQ
 
 
 ## Interface connection cables
-The TRRS pins has been chosen such a way that hat is compatible with DigiRig cables. So far, successful tests were made with:
+The TRRS pins have been chosen such a way that hat is compatible with DigiRig cables. So far, successful tests were made with:
 - (tr)USDX audio/PTT cable: https://digirig.net/product/usdx-cable-for-digirig-mobile/
 - Baofeng audio cable: https://digirig.net/product/baofeng-cords-kit-for-digirig-mobile/
 
-## 3D printed enclosure (work in progress)
-Enclosure 3D models at thingiverse: https://www.thingiverse.com/thing:6478217.
+## 3D printed enclosure
+Enclosure 3D models are at thingiverse: https://www.thingiverse.com/thing:6478217.
 Includes matched 3D-printable front panels as well as an alternatice to PCB-version of front panels.
 
